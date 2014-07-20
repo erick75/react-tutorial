@@ -1,0 +1,26 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.1",
+  "description": "React tutorial",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.6.1",
+    "express":"*",
+    "body-parser":"*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erick75/react-tutorial.git"
+  },
+  "author": "Erick Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick75/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/erick75/react-tutorial"
+}
